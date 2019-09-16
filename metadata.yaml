@@ -1,5 +1,8 @@
 _repo: Where-Are-We-Going_60262
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60262-h/images/cover.jpg
 creator:
   author:
     agent_name: Lloyd George, David
@@ -14,6 +17,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/David_Lloyd_George
 description: 'London edition (Hodder and Stoughton Limited) has title: Is it peace?
   with a different arrangement of the articles and addresses.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60262#Where-Are-We-Going
 gutenberg_issued: '2019-09-08'
 gutenberg_type: Text
 identifiers:
